@@ -1,0 +1,1 @@
+System.register(["./md.transition-legacy-Bfv3h8Li.js"],function(t,n){var e;return{setters:[function(t){e=t.t}],execute:function(){t("mdTransitionAnimation",e)}}});

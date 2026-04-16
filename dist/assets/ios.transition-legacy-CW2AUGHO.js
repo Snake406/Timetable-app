@@ -1,0 +1,1 @@
+System.register(["./ios.transition-legacy-DK6qv5Ve.js"],function(n,t){var i,e;return{setters:[function(n){i=n.n,e=n.t}],execute:function(){n("iosTransitionAnimation",e),n("shadow",i)}}});
