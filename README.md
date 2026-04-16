@@ -1,21 +1,35 @@
 # Timetable-app
 What is Timetable-app?
 A simple ionic-react timetable app for students of MCAST it stores custom made lessons and image read lessons from https://iict.mcast.edu.mt/wp-content/uploads/iict_timetable_2025_6_sem2.pdf suing ocr
-It's distributed public license
+It's a distributed public license
 
-Note that this was made on older version of ionic-react in 2024 there may be problems running on pc
 API key:https://pseudoregally-nonpreservative-tammera.ngrok-free.dev/lessons
 there is also a /scrape route for the daily cancelled lessons
 
-If you would like to help fund or sponsor the project, you can do so via Patreon, OpenCollective, or PayPal. See our contribute page for more information.
-If you wish to contribute code to the project, please make sure to read the coding and commit guidelines: https://github.com/obsproject/obs-studio/blob/master/CONTRIBUTING.md
-Code for the project follows the code style guidelines, located here: https://github.com/obsproject/obs-studio/blob/master/CODESTYLE.md
-Developer/API documentation can be found here: https://obsproject.com/docs
-If you wish to contribute translations, do not submit pull requests. Instead, please use Crowdin. For more information read this page: https://obsproject.com/wiki/How-To-Contribute-Translations-For-OBS
-Contributors to OBS Studio and related repositories are expected to follow our Code of Conduct, which can be read here: https://github.com/obsproject/obs-studio/blob/master/COC.rst
-Other ways to contribute are by helping people out with support on our forums or in our community chat. Please limit support to topics you fully understand -- bad advice is worse than no advice. When it comes to something that you don't fully know or understand, please defer to the official help or official channels.
-SAST Tools
-PVS-Studio - static analyzer for C, C++, C#, and Java code.
+
+
+Free, Open-Source TimeTable App for MCAST Students.
+
+The author of this program is not liable for any damage, harm, or legal consequences resulting from the use or misuse of this program. By using this program, you acknowledge that you understand the potential risks and agree to assume full responsibility for any actions taken using the program.
+
+Features
+Scrapes The cancelled lessons
+Reads text from pdf file
+Loud Noise
+Stores custom-made lessons
+Stores Image Read lessons
+Lightweght
+Swiping Pages
+Custom Title
+Custom Image Card.
+Download
+Head over to the releases tab to download the latest version of App.apk.
+
+Note: that this was made on older version of ionic-react in 2024 there may be problems running on pc
+
+Stay Updated
+Please consider starring this repository if you found this project useful. By starring this repository, you help others discover it, and it shows the developer how many people are interested in this project. Additionally, click on the "Watch" button located at the top of the repository page to receive notifications for the latest updates and features added to the project. Thank you for your support!
+
 
 The code in src/ is the source code
 run on android: install the apk
@@ -29,4 +43,3 @@ run on windows pc:
 7. open the directory in VS Code
 8. run npm install use-sound in a webnative terminal
 9. run ionic serve
-
