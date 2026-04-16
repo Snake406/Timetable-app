@@ -13,13 +13,21 @@ The author of this program is not liable for any damage, harm, or legal conseque
 
 # Features
 Scrapes The cancelled lessons
+
 Reads text from pdf file
+
 Loud Noise
+
 Stores custom-made lessons
+
 Stores Image Read lessons
+
 Lightweght
+
 Swiping Pages
+
 Custom Title
+
 Custom Image Card.
 
 # Download
