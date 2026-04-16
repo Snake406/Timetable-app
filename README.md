@@ -29,7 +29,7 @@ Custom Title
 Custom Image Card.
 
 # Download
-Head over to the releases tab to download the latest version of App.apk.
+Head over to the releases tab to download the latest version of App.apk on an Android Device.
 
 Note: that this was made on older version of ionic-react in 2024 there may be problems running on pc
 
@@ -37,15 +37,4 @@ Stay Updated
 Please consider starring this repository if you found this project useful. By starring this repository, you help others discover it, and it shows the developer how many people are interested in this project. Additionally, click on the "Watch" button located at the top of the repository page to receive notifications for the latest updates and features added to the project. Thank you for your support!
 
 
-The code in src/ is the source code
-run on android: install the apk
-run on windows pc: 
-1. make sure you have node.JS and ionic 
-2. open cmd and run ionic start myApp
-3. select react framework
-4. select blank starter template
-5. Go to the newly created myApp/ directory and replace the src files with the source code
-6. add the assests folder in myApp/ directory
-7. open the directory in VS Code
-8. run npm install use-sound in a webnative terminal
-9. run ionic serve
+
