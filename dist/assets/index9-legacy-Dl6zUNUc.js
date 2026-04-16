@@ -1,1 +1,0 @@
-System.register([],function(e,n){return{setters:[],execute:function(){e("n","undefined"!=typeof window?window:void 0),e("t","undefined"!=typeof document?document:void 0)}}});
