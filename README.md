@@ -7,12 +7,11 @@ API key:https://pseudoregally-nonpreservative-tammera.ngrok-free.dev/lessons
 there is also a /scrape route for the daily cancelled lessons
 
 
-
+# Disclamer 
 Free, Open-Source TimeTable App for MCAST Students.
-
 The author of this program is not liable for any damage, harm, or legal consequences resulting from the use or misuse of this program. By using this program, you acknowledge that you understand the potential risks and agree to assume full responsibility for any actions taken using the program.
 
-Features
+# Features
 Scrapes The cancelled lessons
 Reads text from pdf file
 Loud Noise
@@ -22,7 +21,8 @@ Lightweght
 Swiping Pages
 Custom Title
 Custom Image Card.
-Download
+
+# Download
 Head over to the releases tab to download the latest version of App.apk.
 
 Note: that this was made on older version of ionic-react in 2024 there may be problems running on pc
