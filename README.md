@@ -13,6 +13,8 @@ run on windows pc:
 3. select react framework
 4. select blank starter template
 5. Go to the newly created myApp/ directory and replace the src files with the source code
-6. open the directory in VS Code
-7. run ionic serve in a webnative terminal
+6. add the assests folder in myApp/ directory
+7. open the directory in VS Code
+8. run npm install use-sound in a webnative terminal
+9. run ionic serve
 
